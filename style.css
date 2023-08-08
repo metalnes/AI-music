@@ -1,0 +1,21 @@
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;
+}
+.divimg{
+    border-radius: 50%;
+    width: 200px;
+}
+#play{
+    font-size: 35px;
+    padding: 10px;
+}
+#speed,#volume{
+    font-size: 22px;
+ border-radius:50% ;
+ padding: 30px;
+ color: rgb(12, 5, 117);
+}
